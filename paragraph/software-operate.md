@@ -10,3 +10,8 @@ This repository is currently only available on your local machine. By publishing
 
 将您的存储库发布到Github。
 此存储库目前仅在本地计算机上可用。 通过在Github上发布，您可以共享它，并与其他人协作。
+
+2. vscode
+> Press desired key combination and then press ENTER.
+
+按所需的组合键，然后按Enter键。

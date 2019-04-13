@@ -29,4 +29,4 @@
 bk-idea ??
 - 比如点击english.md的英文单词，直接调转到/显示english-chinese.md中对应的释义。
 - 开发个vscode插件，每个字母标题下，添加新单词，修改后面的数字，显示这个字母开头的有几个单词，要不然复习都不知道哪个标题下有单词 如`# B (22)` ?? bk-idea & todo first
-- ~~点击english.md的英文单词，调用google翻译API，显示单词释义。google翻译插件就可以办到这点，没必要重复造轮子~~
+- ~~点击english.md的英文单词，调用google翻译API，显示单词释义。google翻译插件/vscode也有插件可以办到这点，没必要重复造轮子~~
