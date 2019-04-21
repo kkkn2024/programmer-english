@@ -3,9 +3,9 @@
 - [A (3)](#a-3)
 - [B (1)](#b-1)
 - [C (7)](#c-7)
-- [D (4)](#d-4)
+- [D (5)](#d-5)
 - [E(3)](#e3)
-- [F](#f)
+- [F (1)](#f-1)
 - [G](#g)
 - [H (2)](#h-2)
 - [I (1)](#i-1)
@@ -45,18 +45,20 @@
 - conflict
 - collapse
 
-# D (4)
+# D (5)
 - deprecate
 - desired
 - detect
 - duplicated
+- discard
 
 # E(3)
 - external
 - explicit
 - exact
 
-# F
+# F (1)
+- flatten
 
 # G
 
@@ -66,6 +68,7 @@
 
 # I (1)
 - internal 
+- inherited
 
 # J
 
@@ -89,11 +92,12 @@
 
 # R (2)
 - relative
-- revoke  
+- revoke
 
 # S (2)
 - synchronize
 - sync 
+- scroll
 
 # T (2)
 - transient
@@ -102,7 +106,6 @@
 
 # V (1)
 - vertical
-
 
 # W
 

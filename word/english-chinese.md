@@ -50,6 +50,7 @@
 - desired adj. 渴望的；想得到的 v. 渴望，要求（desire的过去分词形式）
 - detect vt. 察觉；发现
 - duplicated adj. 复制出的
+- discard vt. 抛弃；丢弃
 
 # E
 - external adj. 外部的
@@ -57,6 +58,7 @@
 - exact adj. 准确的，精确的
 
 # F
+- flatten v. (使)变平
 
 # G
 
@@ -66,6 +68,7 @@
 
 # I
 - internal adj. 内部的；里面的
+- inherited adj. 继承的；遗传的
 
 # J
 
@@ -94,6 +97,7 @@
 # S
 - synchronize vt. 使...同步
 - sync n. 同步 vt. 使同步
+- scroll v.滚屏;滚动
 
 # T
 - transient adj. 短暂的；路过的
@@ -102,7 +106,6 @@
 
 # V
 - vertical adj. 垂直的，直立的
-
 
 # W
 
